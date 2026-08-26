@@ -1,13 +1,14 @@
 # Patient Registration System
 
-A lightweight patient registration system designed around real-world nurse workflows, reducing patient registration calls by approximately 80% with zero infrastructure cost.
+I spent time on-site from 7:00 AM to understand hospital workflows, identified patient registration as a key pain point, and developed a solution that reduced registration calls by approximately 80%.
 
-## Features
+## Tech Stack
+- Frontend: Next.js, Tailwind CSS
+- Backend: Google Apps Script
+- Data Store: Google Sheets
+- Cloud: Vercel
+- Communication: LINE Messaging API
 
-- Patient registration through a Next.js web application
-- Real-time LINE notifications for patients and healthcare staff
-- Automatic data synchronization with Google Sheets
-- UI designed for accessibility in clinical environments
 
 ## Architecture
 
@@ -20,10 +21,3 @@ graph TD
 ```
 
 
-
-## Tech Stack
-- Frontend: Next.js, Tailwind CSS
-- Backend: Google Apps Script
-- Data Store: Google Sheets
-- Cloud: Vercel
-- Communication: LINE Messaging API
