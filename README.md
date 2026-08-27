@@ -1,13 +1,14 @@
 # Telemedicine Registration System
 
-Learned patient registration workflows hands-on at a community hospital and reduced patient registration calls by 80%. Currently in use by [Kamphaeng Phet City Municipality](https://www.google.com/url?q=https%3A%2F%2Fwww.kppmu.go.th%2Fnews-detail%3Fhd%3D1%26id%3D124000&sa=D&sntz=1&usg=AOvVaw0EGdrwtrYvklcSqU5nIwb-).
+Learned patient registration workflows hands-on at a community hospital, reducing patient registration calls by 80% and currently in use by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000)
 
 ## Tech Stack
-- Frontend: Next.js, Tailwind CSS
-- Backend: Google Apps Script
-- Data Store: Google Sheets
-- Cloud: Vercel
-- Communication: LINE Messaging API
+- Next.js,
+- Tailwind CSS
+- Google Apps Script
+- Google Sheets
+- Vercel
+- LINE Messaging API
 
 
 ## Architecture
