@@ -1,6 +1,7 @@
 # Telemedicine Registration System
 
-Learned patient registration workflows hands-on at a community hospital, reducing patient registration calls by 80% and currently in use by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
+Observed on-site workflows at 7 AM, interpreted nursing terminology, and developed a practical solution using free-tier tools, reducing patient registration calls by 80% and now in active use by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
+
 
 ## Tech Stack
 - Next.js,
