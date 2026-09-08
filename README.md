@@ -1,17 +1,11 @@
-# Telemedicine Registration System
-
-Observed on-site workflows at 7 AM and interpreted nursing terminology to develop a practical solution using free-tier tools that reduced patient registration calls by 80% and is now used by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
-
-
-
 ## Tech Stack
-- Next.js,
+
+- Next.js
 - Tailwind CSS
 - LINE Messaging API
 - Google Apps Script
 - Google Sheets
 - Vercel
-
 
 ## Architecture
 
@@ -23,4 +17,6 @@ graph TD
     C -->|Send Notification| E[LINE Messaging API]
 ```
 
+## Real-World Usage
 
+Currently used by [Kamphaeng Phet City Municipality](https://www.kppmu.go.th/news-detail?hd=1&id=124000).
