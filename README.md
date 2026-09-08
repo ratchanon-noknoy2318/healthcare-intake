@@ -11,7 +11,7 @@
 
 ```mermaid
 graph TD
-    A[Patient / Frontline Nurse] -->|Next.js| B[Web Application]
+    A[Patient] -->|Next.js| B[Web Application]
     B -->|API Request| C[Google Apps Script]
     C -->|Store Data| D[(Google Sheets)]
     C -->|Send Notification| E[LINE Messaging API]
