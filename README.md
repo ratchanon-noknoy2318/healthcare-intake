@@ -14,7 +14,7 @@ graph TD
     A[Patient] -->|Next.js| B[Web Application]
     B -->|API Request| C[Google Apps Script]
     C -->|Store Data| D[(Google Sheets)]
-    C -->|Send Notification| E[LINE Messaging API]
+    C -->|Notify the nurse| E[LINE Messaging API]
 ```
 
 ## Real-World Usage
